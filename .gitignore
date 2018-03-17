@@ -1,0 +1,6 @@
+data/
+TestImages/
+TrainingImages/
+.ipynb_checkpoints/
+*.csv
+*.h5
