@@ -1,0 +1,172 @@
+
+-----inception_v4_84-----
+Label 0: Num images: 338; True pos: 336; False pos: 3
+>>> Rate truepos: 0.9940828402366864; Rate falsepos: 0.008849557522123894
+>>> Most frequently predicted as label 1 with 1 images.
+Label 1: Num images: 265; True pos: 265; False pos: 2
+>>> Rate truepos: 1.0; Rate falsepos: 0.00749063670411985
+>>> Most frequently predicted as label 0 with 0 images.
+Label 2: Num images: 192; True pos: 189; False pos: 3
+>>> Rate truepos: 0.984375; Rate falsepos: 0.015625
+>>> Most frequently predicted as label 7 with 1 images.
+Label 3: Num images: 191; True pos: 165; False pos: 13
+>>> Rate truepos: 0.8638743455497382; Rate falsepos: 0.07303370786516854
+>>> Most frequently predicted as label 4 with 12 images.
+Label 4: Num images: 197; True pos: 194; False pos: 17
+>>> Rate truepos: 0.9847715736040609; Rate falsepos: 0.08056872037914692
+>>> Most frequently predicted as label 0 with 1 images.
+Label 5: Num images: 211; True pos: 142; False pos: 36
+>>> Rate truepos: 0.6729857819905213; Rate falsepos: 0.20224719101123595
+>>> Most frequently predicted as label 13 with 28 images.
+Label 6: Num images: 310; True pos: 236; False pos: 31
+>>> Rate truepos: 0.7612903225806451; Rate falsepos: 0.11610486891385768
+>>> Most frequently predicted as label 10 with 65 images.
+Label 7: Num images: 318; True pos: 274; False pos: 104
+>>> Rate truepos: 0.8616352201257862; Rate falsepos: 0.2751322751322751
+>>> Most frequently predicted as label 15 with 11 images.
+Label 8: Num images: 144; True pos: 117; False pos: 18
+>>> Rate truepos: 0.8125; Rate falsepos: 0.13333333333333333
+>>> Most frequently predicted as label 14 with 16 images.
+Label 9: Num images: 228; True pos: 179; False pos: 45
+>>> Rate truepos: 0.7850877192982456; Rate falsepos: 0.20089285714285715
+>>> Most frequently predicted as label 11 with 25 images.
+Label 10: Num images: 298; True pos: 250; False pos: 80
+>>> Rate truepos: 0.8389261744966443; Rate falsepos: 0.24242424242424243
+>>> Most frequently predicted as label 6 with 24 images.
+Label 11: Num images: 291; True pos: 198; False pos: 64
+>>> Rate truepos: 0.6804123711340206; Rate falsepos: 0.24427480916030533
+>>> Most frequently predicted as label 7 with 30 images.
+Label 12: Num images: 182; True pos: 157; False pos: 35
+>>> Rate truepos: 0.8626373626373627; Rate falsepos: 0.18229166666666666
+>>> Most frequently predicted as label 10 with 10 images.
+Label 13: Num images: 161; True pos: 110; False pos: 70
+>>> Rate truepos: 0.6832298136645962; Rate falsepos: 0.3888888888888889
+>>> Most frequently predicted as label 7 with 15 images.
+Label 14: Num images: 168; True pos: 150; False pos: 24
+>>> Rate truepos: 0.8928571428571429; Rate falsepos: 0.13793103448275862
+>>> Most frequently predicted as label 8 with 10 images.
+Label 15: Num images: 129; True pos: 97; False pos: 21
+>>> Rate truepos: 0.751937984496124; Rate falsepos: 0.17796610169491525
+>>> Most frequently predicted as label 7 with 22 images.
+Label 16: Num images: 81; True pos: 41; False pos: 37
+>>> Rate truepos: 0.5061728395061729; Rate falsepos: 0.47435897435897434
+>>> Most frequently predicted as label 11 with 15 images.
+Label 17: Num images: 109; True pos: 109; False pos: 1
+>>> Rate truepos: 1.0; Rate falsepos: 0.00909090909090909
+>>> Most frequently predicted as label 0 with 0 images.
+
+
+-----inception_v3_828-----
+Label 0: Num images: 338; True pos: 335; False pos: 3
+>>> Rate truepos: 0.9911242603550295; Rate falsepos: 0.008875739644970414
+>>> Most frequently predicted as label 1 with 1 images.
+Label 1: Num images: 265; True pos: 260; False pos: 6
+>>> Rate truepos: 0.9811320754716981; Rate falsepos: 0.022556390977443608
+>>> Most frequently predicted as label 0 with 3 images.
+Label 2: Num images: 192; True pos: 181; False pos: 3
+>>> Rate truepos: 0.9427083333333334; Rate falsepos: 0.016304347826086956
+>>> Most frequently predicted as label 3 with 2 images.
+Label 3: Num images: 191; True pos: 164; False pos: 25
+>>> Rate truepos: 0.8586387434554974; Rate falsepos: 0.13227513227513227
+>>> Most frequently predicted as label 4 with 10 images.
+Label 4: Num images: 197; True pos: 192; False pos: 17
+>>> Rate truepos: 0.9746192893401016; Rate falsepos: 0.08133971291866028
+>>> Most frequently predicted as label 3 with 4 images.
+Label 5: Num images: 211; True pos: 143; False pos: 42
+>>> Rate truepos: 0.6777251184834123; Rate falsepos: 0.22702702702702704
+>>> Most frequently predicted as label 13 with 20 images.
+Label 6: Num images: 310; True pos: 230; False pos: 27
+>>> Rate truepos: 0.7419354838709677; Rate falsepos: 0.10505836575875487
+>>> Most frequently predicted as label 10 with 71 images.
+Label 7: Num images: 318; True pos: 260; False pos: 90
+>>> Rate truepos: 0.8176100628930818; Rate falsepos: 0.2571428571428571
+>>> Most frequently predicted as label 15 with 17 images.
+Label 8: Num images: 144; True pos: 121; False pos: 21
+>>> Rate truepos: 0.8402777777777778; Rate falsepos: 0.14788732394366197
+>>> Most frequently predicted as label 14 with 17 images.
+Label 9: Num images: 228; True pos: 188; False pos: 62
+>>> Rate truepos: 0.8245614035087719; Rate falsepos: 0.248
+>>> Most frequently predicted as label 11 with 23 images.
+Label 10: Num images: 298; True pos: 253; False pos: 94
+>>> Rate truepos: 0.8489932885906041; Rate falsepos: 0.27089337175792505
+>>> Most frequently predicted as label 6 with 20 images.
+Label 11: Num images: 291; True pos: 198; False pos: 75
+>>> Rate truepos: 0.6804123711340206; Rate falsepos: 0.27472527472527475
+>>> Most frequently predicted as label 9 with 32 images.
+Label 12: Num images: 182; True pos: 156; False pos: 32
+>>> Rate truepos: 0.8571428571428571; Rate falsepos: 0.1702127659574468
+>>> Most frequently predicted as label 10 with 14 images.
+Label 13: Num images: 161; True pos: 93; False pos: 67
+>>> Rate truepos: 0.577639751552795; Rate falsepos: 0.41875
+>>> Most frequently predicted as label 5 with 18 images.
+Label 14: Num images: 168; True pos: 143; False pos: 21
+>>> Rate truepos: 0.8511904761904762; Rate falsepos: 0.12804878048780488
+>>> Most frequently predicted as label 8 with 11 images.
+Label 15: Num images: 129; True pos: 92; False pos: 27
+>>> Rate truepos: 0.7131782945736435; Rate falsepos: 0.226890756302521
+>>> Most frequently predicted as label 7 with 21 images.
+Label 16: Num images: 81; True pos: 45; False pos: 36
+>>> Rate truepos: 0.5555555555555556; Rate falsepos: 0.4444444444444444
+>>> Most frequently predicted as label 11 with 12 images.
+Label 17: Num images: 109; True pos: 106; False pos: 5
+>>> Rate truepos: 0.9724770642201835; Rate falsepos: 0.04504504504504504
+>>> Most frequently predicted as label 7 with 1 images.
+
+
+-----inception_v4_84 + inception_v3_828 ensemble-----
+Label 0: Num images: 338; True pos: 336; False pos: 2
+>>> Rate truepos: 0.9940828402366864; Rate falsepos: 0.005917159763313609
+>>> Most frequently predicted as label 1 with 1 images.
+Label 1: Num images: 265; True pos: 264; False pos: 4
+>>> Rate truepos: 0.9962264150943396; Rate falsepos: 0.014925373134328358
+>>> Most frequently predicted as label 0 with 1 images.
+Label 2: Num images: 192; True pos: 188; False pos: 3
+>>> Rate truepos: 0.9791666666666666; Rate falsepos: 0.015706806282722512
+>>> Most frequently predicted as label 1 with 1 images.
+Label 3: Num images: 191; True pos: 167; False pos: 11
+>>> Rate truepos: 0.8743455497382199; Rate falsepos: 0.06179775280898876
+>>> Most frequently predicted as label 4 with 9 images.
+Label 4: Num images: 197; True pos: 194; False pos: 13
+>>> Rate truepos: 0.9847715736040609; Rate falsepos: 0.06280193236714976
+>>> Most frequently predicted as label 3 with 2 images.
+Label 5: Num images: 211; True pos: 149; False pos: 39
+>>> Rate truepos: 0.7061611374407583; Rate falsepos: 0.2074468085106383
+>>> Most frequently predicted as label 13 with 23 images.
+Label 6: Num images: 310; True pos: 236; False pos: 21
+>>> Rate truepos: 0.7612903225806451; Rate falsepos: 0.08171206225680934
+>>> Most frequently predicted as label 10 with 66 images.
+Label 7: Num images: 318; True pos: 276; False pos: 91
+>>> Rate truepos: 0.8679245283018868; Rate falsepos: 0.24795640326975477
+>>> Most frequently predicted as label 15 with 12 images.
+Label 8: Num images: 144; True pos: 122; False pos: 15
+>>> Rate truepos: 0.8472222222222222; Rate falsepos: 0.10948905109489052
+>>> Most frequently predicted as label 14 with 16 images.
+Label 9: Num images: 228; True pos: 186; False pos: 54
+>>> Rate truepos: 0.8157894736842105; Rate falsepos: 0.225
+>>> Most frequently predicted as label 11 with 25 images.
+Label 10: Num images: 298; True pos: 260; False pos: 82
+>>> Rate truepos: 0.87248322147651; Rate falsepos: 0.23976608187134502
+>>> Most frequently predicted as label 6 with 16 images.
+Label 11: Num images: 291; True pos: 203; False pos: 66
+>>> Rate truepos: 0.697594501718213; Rate falsepos: 0.24535315985130113
+>>> Most frequently predicted as label 9 with 30 images.
+Label 12: Num images: 182; True pos: 163; False pos: 28
+>>> Rate truepos: 0.8956043956043956; Rate falsepos: 0.14659685863874344
+>>> Most frequently predicted as label 10 with 8 images.
+Label 13: Num images: 161; True pos: 99; False pos: 58
+>>> Rate truepos: 0.6149068322981367; Rate falsepos: 0.36942675159235666
+>>> Most frequently predicted as label 5 with 17 images.
+Label 14: Num images: 168; True pos: 149; False pos: 23
+>>> Rate truepos: 0.8869047619047619; Rate falsepos: 0.13372093023255813
+>>> Most frequently predicted as label 8 with 9 images.
+Label 15: Num images: 129; True pos: 98; False pos: 22
+>>> Rate truepos: 0.7596899224806202; Rate falsepos: 0.18333333333333332
+>>> Most frequently predicted as label 7 with 20 images.
+Label 16: Num images: 81; True pos: 44; False pos: 38
+>>> Rate truepos: 0.5432098765432098; Rate falsepos: 0.4634146341463415
+>>> Most frequently predicted as label 11 with 13 images.
+Label 17: Num images: 109; True pos: 109; False pos: 0
+>>> Rate truepos: 1.0; Rate falsepos: 0.0
+>>> Most frequently predicted as label 0 with 0 images.
+
+
